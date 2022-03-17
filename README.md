@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU3_09JavierNuñezMiguelMedina.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Javier Nuñez Suarez     :octocat:     
+ * :bust_in_silhouette:  Miguel Medina Martínez     :octocat:
 
 ----- 
 
@@ -32,7 +32,9 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
+
+>>> Nuestro hostel se centra mas en ofrecer servicios de hotel como restaurante y bar de copas con actuaciones. Aun así ofrece lavanderia, wifi gratis y excursiones. Lo que lo hace un buen hostel a pesar de contar con taquillas de pago y no ofrecer recepción las 24 horas del dia.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
