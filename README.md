@@ -32,12 +32,14 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-
+![Método UX](P1/TablaComparativa.png)
 
 >>> Nuestro hostel se centra mas en ofrecer servicios de hotel como restaurante y bar de copas con actuaciones. Aun así ofrece lavanderia, wifi gratis y excursiones. Lo que lo hace un buen hostel a pesar de contar con taquillas de pago y no ofrecer recepción las 24 horas del dia.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![Método UX](P1/PersonaA.png)
+![Método UX](P1/PersonaB.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
@@ -49,11 +51,10 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  Revisión de usabilidad:
+>>> - Enlace al documento:  [Usability Review](P1/Usability-review-template.xlsx)
+>>> - Valoración final (numérica): 83
+>>> - Comentario sobre la valoración: En general la pagina cumple bien con los objetivos y permite reservar y saber mas del establecimiento. Aun asi cuenta con algunos errores en cuanto al uso de colores de la tipografia. Tampoco permite distinguir donde te encuentras en la pagina. Cabe destacar que el proceso de reserva es muy intuitivo e incluso te corrige algunos errores mientras que rellenas los campos. 
 
 
 ## Paso 2. UX Design  
