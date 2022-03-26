@@ -48,7 +48,7 @@ Miembros
 ![Método UX](P1/JourneyA.png)
 ![Método UX](P1/JourneyB.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Estás dos experiencias de usuario las hemos elegido en base al carácter de cada persona, adaptándose por ejemplo la estancia y la manera de acceder a la información según cada persona.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
