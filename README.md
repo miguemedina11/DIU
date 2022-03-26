@@ -41,11 +41,12 @@ Miembros
 ![Método UX](P1/PersonaA.png)
 ![Método UX](P1/PersonaB.png)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos elegido dos personas que a pesar de ser ambas solteras, buscan una experiencia completamente diferente en nuestro hostel. Uno salir de fiesta y la otra una visita cultural. Aun así sus motivaciones tienen en comun el aspecto social que ofrecen los hostels.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
+![Método UX](P1/JourneyA.png)
+![Método UX](P1/JourneyB.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
