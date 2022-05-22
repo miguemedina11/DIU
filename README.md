@@ -5,24 +5,24 @@ Grupo: DIU3_08JavierNuñezMiguelMedina.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Hostel 4U
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Crear un microsite para facilitar el acceso a toda la información del restaurante. Proporcionando el menú y ofertas exclusivas para la gente del hostal. También debería permitir la reserva.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![logo](P2/logo.png)
 
 Miembros
- * :bust_in_silhouette:   Javier Nuñez Suarez     :octocat:     
- * :bust_in_silhouette:  Miguel Medina Martínez     :octocat:
+ * :bust_in_silhouette:   Javier Nuñez Suarez     :octocat: @Javinunezs
+ * :bust_in_silhouette:  Miguel Medina Martínez     :octocat: @miguemedina11
 
 ----- 
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
+
 
 
 # Proceso de Diseño 
@@ -34,21 +34,21 @@ Miembros
 
 ![Método UX](P1/TablaComparativa.png)
 
->>> Nuestro hostel se centra mas en ofrecer servicios de hotel como restaurante y bar de copas con actuaciones. Aun así ofrece lavanderia, wifi gratis y excursiones. Lo que lo hace un buen hostel a pesar de contar con taquillas de pago y no ofrecer recepción las 24 horas del dia.
+Nuestro hostel se centra mas en ofrecer servicios de hotel como restaurante y bar de copas con actuaciones. Aun así ofrece lavanderia, wifi gratis y excursiones. Lo que lo hace un buen hostel a pesar de contar con taquillas de pago y no ofrecer recepción las 24 horas del dia.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 ![Método UX](P1/PersonaA.png)
 ![Método UX](P1/PersonaB.png)
 
->>> Hemos elegido dos personas que a pesar de ser ambas solteras, buscan una experiencia completamente diferente en nuestro hostel. Uno salir de fiesta y la otra una visita cultural. Aun así sus motivaciones tienen en comun el aspecto social que ofrecen los hostels.
+Hemos elegido dos personas que a pesar de ser ambas solteras, buscan una experiencia completamente diferente en nuestro hostel. Uno salir de fiesta y la otra una visita cultural. Aun así sus motivaciones tienen en comun el aspecto social que ofrecen los hostels.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 ![Método UX](P1/JourneyA.png)
 ![Método UX](P1/JourneyB.png)
 
->>> Estás dos experiencias de usuario las hemos elegido en base al carácter de cada persona, adaptándose por ejemplo la estancia y la manera de acceder a la información según cada persona.
+Estás dos experiencias de usuario las hemos elegido en base al carácter de cada persona, adaptándose por ejemplo la estancia y la manera de acceder a la información según cada persona.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -64,47 +64,40 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+![Capture Grid](P2/capture_grid.png)
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+
+![Scope Canvas](P2/scope_canvas.png)
 ----
->>> Propuesta de valor 
+Propuesta de valor:
+Crear un microsite para facilitar el acceso a toda la información del restaurante. Proporcionando el menú y ofertas exclusivas para la gente del hostal. También debería permitir la reserva.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![User Map](P2/user_map.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Site Map](P2/sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
+> Restaurante: Descubre lo que ofrece nuestro restaurante y reserva de forma sencilla.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+> Menú: Información detallada de los platos y precios que ofrece nuestro restaurante además de fotos de algunos de éstos.
+
+> Ofertas: Información detallada y precios de las ofertas disponibles para los clientes del hostel. 
+
+> Contacto: Formulario a rellenar para contactar por email. Información de la localización y del contacto telefónico.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Prototipe 1](P2/proto1.png)
+![Prototipe 2](P2/proto2.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -113,28 +106,25 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+![Moodboard](P3/moodboard.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+![Landing Page](P3/landing_page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Estudio de Guidelines y Patrones IU a usar 
+ Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+ A partir de los bocetos realizados previamente, hemos desarrollado un prototipo usando Protopie que puede ser accedido a través de este link:
+
+https://cloud.protopie.io/p/dceb60d53b
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
