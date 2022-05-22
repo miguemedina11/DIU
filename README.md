@@ -116,8 +116,18 @@ Crear un microsite para facilitar el acceso a toda la información del restauran
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Estudio de Guidelines y Patrones IU a usar 
- Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Tras consultar la página web https://ui-patterns.com/ hemos recolectado unos patrones que nos pueden ser útiles en el desarrollo de nuestra página:
+
+- [Home link](https://ui-patterns.com/patterns/HomeLink): Para facilitar la vuelta a la página principal presionando el logo
+
+- [Navigation tabs](https://ui-patterns.com/patterns/NavigationTabs): Para llevar a cabo la navegación entre nuestro sitio con varias páginas.
+
+- [Carousel](https://ui-patterns.com/patterns/Carousel): Para mostrar imágenes relevantes
+
+- [Input prompt](https://ui-patterns.com/patterns/InputPrompt): Para pedir información relevante al usuario para contactar con nosotros o hacer su reserva
+
+- [Testimonials](https://ui-patterns.com/patterns/testimonials): Para que los usuarios puedan ver las reseñas que otros usuarios han dejado sobre nuestro establecimiento.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
