@@ -141,8 +141,24 @@ https://cloud.protopie.io/p/dceb60d53b
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+**Inspiración**
+Food4u surge a raíz de querer ofrecer, tanto a los usuarios que se alojan en Hostel4u como a usuarios externos, nuevas sensaciones y esencias que podrán captar gracias a este nuevo restaurante, agregando un valor extra a una visita por granada. Al poder acceder usuarios externos a este Hostel y a la web del restaurante, se realizará una publicidad indirecta del Hostel.
+Al inicio nos encontramos con las experiencias de Greta Y Petrov, gente joven con ganas de realizar actividades y pasar tiempo en las calles de Granada, lo que les hacía querer buscar buenos restaurantes y donde poder  descansar.
+
+**Inicio del proyecto**
+Estas dos personas, Greta y Petrov junto a nosotros mismos hemos generado diferentes ideas que junto a la malla receptora y el scope canvas ayudaran a poder desarrollar más tarde un diseño propio
+Por ello lo primero que hicimos fue crear unos bocetos a mano alzada con lo que serían nuestras primeras ideas de cara a la idea de la extensión web para el restaurante.
+
+**Diseño**
+Ya con las ideas más claras y con la estructura y funcionalidades de la web pensada, comenzamos a dotar de personalidad  al proyecto mediante un moodboard que recogiese todo lo que queríamos reflejar en nuestro proyecto, dotando a nuestra web de una identidad muy similar a la de Hostel4u. Este moodboard se conforma de imágenes, tipografías o fuentes entre otros elementos...
+Tras esto el siguiente paso fue diseñar un landing page con el que poder llamar la atención a clientes potenciales, haciendo de esta página un sitio sencillo y fácil de leer, dándolo mucha importancia al componente visual.
+Por último y antes de darle la apariencia final con protopie a la aplicación, lo que hicimos fue analizar patrones de diseño que se ajustaran a las necesidades de los usuarios.
+
+**Conclusión**
+Tras crear usuarios persona, dos en concretos, y tras usarnos a nosotros mismo también como inspiración, hemos sido capaces de desarrollar un prototipo fiel de lo que sería nuestra webApp basada en un restaurante para Hostel4U. 
+Gracias a esta actividad hemos aprendido a cómo crear un diseño y un estilo que refleje la identidad de lo que nosotros hemos ido creando, en concreto usando técnicas de branding y diseño.
+Hemos conseguido poder crear una webApp adaptada a los usuarios y que cubre sus necesidades básicas.
+
 
 
 ## Paso 4. Evaluación 
