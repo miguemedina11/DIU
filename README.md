@@ -166,9 +166,9 @@ Hemos conseguido poder crear una webApp adaptada a los usuarios y que cubre sus 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+Sharing4U es una aplicación diseñada para compartir experiencias con otros usuarios y estar al tanto de los próximos eventos. Las experiencias engloban tanto eventos de ocio, como turísticos o simplemente alguna vivencia que haya sido agradable y que se quiera compartir con el resto de usuarios.
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+https://github.com/quepereza/DIU
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -179,48 +179,27 @@ Hemos conseguido poder crear una webApp adaptada a los usuarios y que cubre sus 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1  | H / 59   | Profesor  | Alta       | Racional | Web       | A 
+| User2  | M / 24   | Estudiante  | Media       | Ambientologa       | Web        | A 
+| User3  | M / 55   | Profesora     | Baja        | Sencilla    | Móvil      | B 
+| User4  | H / 43   | Director Hotel  | Media       | Inquieto     | Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+![Cuestionario SUS](P4/cuestionario_sus.png)
+Nos esperabamos consiguir una puntuacion parecida a nuestros compañeros y ademas estimabamos que los dos ibamos a llegar al rango de aceptable.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
 
 
-
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
+En general es un sitio web muy intuitivo y completo. La interfaz es consistente y cumple las expectativas de los usuarios. 
+La página principal no presenta con claridad lo que el sitio ofrece, dispone de un desplegable a la derecha que no es intuitivo, debería ir hacia abajo. No llama en exceso la atención (Uso de colores apagados, se le da más prioridad al texto que las imágenes). 
+Por último el menú desplegable no encaja con la interfaz y podría ocupar toda la verticalidad de la pantalla y los iconos son redundantes y confunden. 
+El header ocupa un gran espacio de pantalla. Además el footer de la página principal no es claro y tiene una distribución que no concuerda con el resto de la aplicación móvil.
 
 ## Conclusión final / Valoración de las prácticas
 
